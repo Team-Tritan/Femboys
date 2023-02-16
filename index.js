@@ -1,9 +1,9 @@
 class Femboys {
   constructor() {
-    this.print();
+    this.cum();
   }
 
-  print() {
+  cum() {
     console.log("Femboys are hot, join discord.gg/http.");
   }
 }
