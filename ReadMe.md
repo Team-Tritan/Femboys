@@ -9,9 +9,13 @@ Yet another useless project, brought to you by [Redacted Devs](https://tritan.gg
 ```
 const Femboys = require("./index.js");
 
-let stuff = new Femboys();
+let cute = new Femboys();
+cute.print();
 
-*check console or use var returned value*
+let res = cute.returnStr();
+console.log(res);
+
+module.export = cute;
 ```
 
 ## Contributing
