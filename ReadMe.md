@@ -7,9 +7,9 @@ A package specifically for the best developers on this planet. How? Figure it ou
 ```
 const Femboys = require("./index.js");
 
-let cum = new Femboys();
+let stuff = new Femboys();
 
-*check console*
+*check console & use return value*
 ```
 
 ## Contributing
