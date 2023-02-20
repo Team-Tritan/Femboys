@@ -1,5 +1,16 @@
 const Femboys = require("./index.js");
 
-let stuff = new Femboys();
+// Init class
+let femboys = new Femboys();
 
-module.export = stuff;
+// Values
+femboys.yes;
+
+// Methods
+femboys.print();
+
+// Return Value
+let res = femboys.return();
+console.log(res);
+
+module.export = femboys;

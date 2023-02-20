@@ -2,12 +2,14 @@ class FemboysClass {
   yes = "yes";
 
   constructor() {
-    this.return();
+    this.print();
+  }
+
+  print() {
+    console.log("Femboys are hot, join discord.gg/http.");
   }
 
   return() {
-    console.log("Femboys are hot, join discord.gg/http.");
-
     return "Femboys are hot, join discord.gg/http.";
   }
 }
