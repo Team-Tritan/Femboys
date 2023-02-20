@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": " <github/team-tritan>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/team-tritan/femboys.git"
+  },
   "license": "ISC"
 }
