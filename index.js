@@ -1,4 +1,6 @@
 class FemboysClass {
+  yes = "yes";
+
   constructor() {
     this.return();
   }
