@@ -1,12 +1,13 @@
-class Femboys {
+class FemboysClass {
   constructor() {
-    this.cum();
+    this.return();
   }
 
-  cum() {
+  return() {
     console.log("Femboys are hot, join discord.gg/http.");
-    return "Femboys are hot, join discord.gg/http."
+
+    return "Femboys are hot, join discord.gg/http.";
   }
 }
 
-module.exports = Femboys;
+module.exports = FemboysClass;

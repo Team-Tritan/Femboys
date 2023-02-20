@@ -1,3 +1,5 @@
 const Femboys = require("./index.js");
 
-new Femboys();
+let stuff = new Femboys();
+
+module.export = stuff;
