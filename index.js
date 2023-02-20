@@ -1,5 +1,5 @@
 class FemboysClass {
-  yes = "yes";
+  is_hot = "yes";
 
   constructor() {
     this.print();
@@ -9,7 +9,7 @@ class FemboysClass {
     console.log("Femboys are hot, join discord.gg/http.");
   }
 
-  return() {
+  returnStr() {
     return "Femboys are hot, join discord.gg/http.";
   }
 }
